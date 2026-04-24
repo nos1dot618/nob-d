@@ -1,0 +1,10 @@
+{
+  "targetType": "library",
+	"description": "Module for writing build recipes in D inspired by Tsoding.",
+	"license": "MIT",
+	"authors": [
+		"Lakshay Chauhan"
+	],
+	"copyright": "Copyright © 2026, Lakshay Chauhan",
+	"name": "nob-d"
+}
